@@ -1,4 +1,4 @@
-package com.example.project1;
+package com.example.expensetracker;
 
 public class Expense {
     private int id;
