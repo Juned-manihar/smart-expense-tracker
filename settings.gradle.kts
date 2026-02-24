@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "project1"
+rootProject.name = "Expense Tracker"
 include(":app")
