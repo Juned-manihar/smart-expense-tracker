@@ -1,4 +1,4 @@
-package com.example.project1;
+package com.example.expensetracker;
 
 import android.os.Bundle;
 import android.widget.TextView;

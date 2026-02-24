@@ -1,4 +1,4 @@
-package com.example.project1;
+package com.example.expensetracker;
 
 import android.content.Intent;
 import android.os.Bundle;
